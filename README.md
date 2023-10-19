@@ -1,15 +1,15 @@
 # XMTP PWA with WalletConnect & Wagmi
 
+This tutorial will guide you through the process of creating an XMTP app with WalletConnect & Wagmi.
+
+https://github.com/fabriguespe/xmtp-quickstart-pwa-walletconnect/assets/1447073/7bc2a2a1-afd9-4c9e-b1c4-f35989851e34
+
 ### Installation
 
 ```bash
 bun install
 bun start
 ```
-
-This tutorial will guide you through the process of creating an XMTP app with WalletConnect & Wagmi.
-
-https://github.com/fabriguespe/xmtp-quickstart-pwa-walletconnect/assets/1447073/7bc2a2a1-afd9-4c9e-b1c4-f35989851e34
 
 ### Step 1: Setup
 
